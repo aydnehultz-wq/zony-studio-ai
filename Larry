@@ -1,0 +1,2 @@
+npx create-next-app@latest zony-coding --example https://github.com/whopio/whop-nextjs-app-template
+cd zony-coding
