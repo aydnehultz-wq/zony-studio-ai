@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "zony AI Studio initial build"
+git branch -M main
+git remote add origin https://github.com/YOUR-USERNAME/zony-ai-studio.git
+git push -u origin main
